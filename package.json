@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sergeyre.11-fetching-data-fork-ldbkqani",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve uhIL4aqZjRDjiQ7pbuSq --open"
+  }
+}
